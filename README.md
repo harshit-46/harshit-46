@@ -1,4 +1,3 @@
-<body backgroundcolor="pink">
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzMDM0MTAsIm5iZiI6MTcwNDMwMzExMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAzVDE3MzE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0MGRjZWU1Yjc1MTViNmY0MTAwYWE2MTMxNGUzMGMyNDI4NDU0OTU4MTIxYjJhZTBmMTZjZmUxMzUyOWZiMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EObL4TqKXhU-hbBB9qj7K-cCqZ9rCbnZtW04I0tzy-4)
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
 <h3 align="center">A passionate frontend developer and a coding enthusiast from India.</h3>
@@ -24,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-46&show_icons=true&locale=en&layout=compact" alt="harshit-46" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-46&show_icons=true&locale=en" alt="harshit-46" /></p>
-</body>
